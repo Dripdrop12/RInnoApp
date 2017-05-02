@@ -1,7 +1,7 @@
 Package: RInnoApp
 Type: Package
 Title: This package is an example app for RInno
-Version: 0.1.1
+Version: 0.1.2
 Author: person("Jon", "Hill", role = c("aut", "cre", "cph"), email = "jon.mark.hill@gmail.com")
 Maintainer: Jon Hill <jon.mark.hill@gmail.com>
 Description: RInno supports continuous installation from Github and Bitbucket. 
